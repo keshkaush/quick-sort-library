@@ -1,0 +1,1 @@
+the library consist code for quick sort.
